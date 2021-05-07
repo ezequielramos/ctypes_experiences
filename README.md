@@ -2,9 +2,9 @@
 
 This project porpuse is to test some interactions with ansi-c shared objects/libraries using python ctypes.
 
-There are a so_generator program that generates a shared object/librarty.
+There is a so_generator program that generates a shared object/librarty.
 
-There are two so_consumer programs (written on c and python) to test consuming a shared object/librarty.
+There are also two so_consumer programs (written on c and python) to test consuming a shared object/librarty.
 
 ## How to build?
 
