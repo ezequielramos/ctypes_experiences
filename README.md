@@ -14,7 +14,7 @@ To compile the c programs just run:
 ./compile.sh
 ```
 
-It will generate a so_generator.o and a libSoGenerator.so. It will generate the so_consumer executor too.
+It will generate a so_generator.o and a libSoGenerator.so. It will generate the so_consumer.o executor too.
 
 ## How to run?
 
